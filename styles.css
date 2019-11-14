@@ -11,3 +11,9 @@ body, html{
     height: 40rem;
     width: 40rem;
 }
+
+@media only screen and (max-width: 768px) {
+    #MainImage {
+        height: 10rem;
+        width: 10rem;
+    } 
